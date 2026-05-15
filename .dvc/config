@@ -4,3 +4,4 @@
     url = s3://karpovcoursesmodelmanagment/dvcstore
     region = ru-msk
     endpointurl = https://hb.vkcloud-storage.ru
+    profile = vkcloud
