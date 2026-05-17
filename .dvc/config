@@ -1,7 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = s3://karpovcoursesmodelmanagment/dvcstore
-    region = ru-msk
-    endpointurl = https://hb.vkcloud-storage.ru
-    profile = vkcloud
+    url = gdrive://12wwNuPJJe25y4YeO-5ve2JgQifUFv_H3/
